@@ -11,7 +11,7 @@
 
 ```bash
 # تثبيت الحزم والمكتبات
-npm install
+npm install --legacy-peer-deps
 
 # تشغيل خادم التطوير المحلي
 npm run dev
