@@ -1,0 +1,6 @@
+{
+  "name": "بيت العجوز: لعبة رعب وهروب",
+  "description": "لعبة رعب ثلاثية الأبعاد مرعبة ومستوحاة من ألعاب الجدة (Granny). واجهة عربية كاملة، مؤثرات صوتية مخيفة، نظام سمع ذكي للجدة، ألغاز هروب، وتجربة حبس أنفاس خلال 5 أيام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
